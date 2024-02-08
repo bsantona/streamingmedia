@@ -288,7 +288,7 @@ audio::-webkit-media-controls-enclosure {
 @media screen and (min-width: 834px) {
     .more-link {
         float: right;
-        margin-right: 10;
+        margin-right: 10px;
     }
 
     .nav-menu {
@@ -315,7 +315,7 @@ audio::-webkit-media-controls-enclosure {
 @media screen and (max-width: 375px) {
     .more-link {
         float: none; 
-        margin-left: 10;
+        margin-left: 10px;
     }
 
     .sections-container {
